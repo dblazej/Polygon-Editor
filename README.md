@@ -1,5 +1,6 @@
 # polygon-editor/edytor-wielokątów
 Edytor wielokątów w C# Windows Forms.
+Projekt zrealizowany w ramach przedmiotu Grafika Komputerowa 1.
 
 <img src="/Screenshots/app1.png">
 
