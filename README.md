@@ -3,7 +3,7 @@ Edytor wielokątów w C# Windows Forms.
 
 <img src="/Screenshots/app1.png">
 
-## Podstawowa Specyfikacja:
+## Podstawowa specyfikacja:
 <ul>
   <li>Możliwość dodawania nowego wielokąta, usuwania oraz edycji.</li>
   <li>Przy edycji:
