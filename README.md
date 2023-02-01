@@ -2,7 +2,7 @@
 Edytor wielokątów w C# Windows Forms. <br/>
 Program wykonany jako projekt uniwersytecki na Politechnice Warszawskiej. 
 
-<img src="/Screenshots/app1.png">
+![app](https://user-images.githubusercontent.com/123904190/216015706-82a474ae-42f0-4cee-b85e-8845c77df4c6.png)
 
 ## Podstawowa specyfikacja:
 <ul>
